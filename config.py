@@ -3,6 +3,8 @@
 # version <= python 2.7
 # __author__ = 'Page Wong'
 
+#配置文件用来设置需要的信息
+
 if __name__ == '__main__':
     print("这是配置文件，不能单独运行")
 
